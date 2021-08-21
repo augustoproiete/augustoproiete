@@ -52,6 +52,7 @@ I'm a maintainer on a number of open-source projects on my spare time, including
 - [Serilog.Sinks.RichTextBox](https://github.com/serilog-contrib/serilog-sinks-richtextbox): Sink to write log events to a WPF RichTextBox control
 - [Serilog.Sinks.Notepad](https://github.com/serilog-contrib/serilog-sinks-notepad): Sink to write log events to Notepad as text or JSON
 - [Serilog.Sinks.ExcelDnaLogDisplay](https://github.com/serilog-contrib/serilog-sinks-exceldnalogdisplay): Sink to write events to [Excel-DNA](https://github.com/excel-dna) LogDisplay
+- [Serilog.Enrichers.GlobalLogContext](https://github.com/serilog-contrib/serilog-enrichers-globallogcontext): Enricher to dynamically add properties to all log events of your application
 - [Serilog.Enrichers.ExcelDna](https://github.com/serilog-contrib/serilog-enrichers-exceldna): Enricher with properties from [Excel-DNA](https://github.com/excel-dna) add-ins
 - [ExcelDna.Diagnostics.Serilog](https://github.com/augustoproiete/exceldna-diagnostics-serilog): Integrate [Excel-DNA](https://github.com/excel-dna) Diagnostic Logging with Serilog
 - [Prism.Logging.Serilog](https://github.com/augustoproiete/prism-logging-serilog): Integrate Serilog with Prism in WPF, UWP, or Xamarin Forms apps
